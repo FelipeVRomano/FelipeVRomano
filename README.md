@@ -1,10 +1,22 @@
-### 👋 Bem Vindos!
+**English**: 
+### 👋 Hello! I'm Felipe Romano.
 
-Olá! Sou o Felipe Vicente Romano. No final de 2021, conclui minha graduação em Design de Games na Universidade Anhembi Morumbi. Tive minha primeira experiência profissional no começo de 2021, quando tive a chance de fazer um estágio de programação na Arch Works. Depois, trabalhei como Programador Júnior na QUByte Interactive, fazendo porting de jogos para plataformas como Xbox, PlayStation e Switch.<br />
+**Game Developer** with experience in mobile development, porting, and client projects.  
+Graduated in Game Design from **Anhembi Morumbi University**, I am constantly seeking to enhance my knowledge through courses and online materials.<br />
 <br />
-Em minha experiência como desenvolvedor, sempre gostei do desafio que é começar e terminar um projeto, pois isto me motiva a sempre melhorar para ser capaz de realizá-lo. Em todos projetos que faço, gosto de arriscar e aprender coisas novas, seja uma ferramenta simples ou mais avançada, pois acredito que assim me tornarei um profissional melhor.
+Passionate about the challenge of creating games, I value every stage of the process, from planning to publishing.
+- 🌱 Always seeking new experiences and knowledge.
+- 💬 All feedback is welcome.
+<br />
 
-- 💻 Unity, C# e Java são como eu comecei a desenvolver projetos.
+**Português**:
+<br />
+### 👋 Olá! Eu sou o Felipe Romano.
+
+**Game Developer** com experiência em desenvolvimento mobile, porting para consoles e projetos para clientes. 
+Graduado em Game Design pela Anhembi Morumbi, busco constantemente aprimorar meu conhecimento por meio de cursos e materiais online.<br />
+<br />
+Movido pelo desafio de criar jogos, valorizo cada etapa do processo, do planejamento à publicação.
 - 🌱 Sempre buscando novas experiências e conhecimentos.
 - 💬 Todo feedback é bem-vindo.
 
